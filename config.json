@@ -1,0 +1,5 @@
+{
+    "token": "ODIyMjQyNjk2ODQ3NDI1NTc2.YFPbLw.3hFPxO0EC3vV4o2rt0RWWqa_7yU",
+    "prefix": "ey-",
+    "mongoDBURL": "mongodb+srv://dbUser:treharris123rfc@discord-bot.vh9x1.mongodb.net/discordBot?authSource=admin&replicaSet=atlas-l5p2ai-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+}
